@@ -1,6 +1,8 @@
 # TradeLens Germany
 
-An interactive web application for analysing Germany's international trade flows using official DESTATIS data.
+An interactive web application for analysing Germany's international trade flows using official DESTATIS data:
+
+![Dashboard Overview](screenshots/Screenshot1.png)
 
 This project was developed during my internship/consultancy at the German-Iranian Chamber of Commerce (AHK Iran) in Tehran. The dashboard enables users to explore Germany's imports and exports through interactive visualisations across countries, product groups and time periods.
 
