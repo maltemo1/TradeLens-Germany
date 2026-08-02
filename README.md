@@ -112,19 +112,22 @@ Each dashboard page is implemented as an individual module containing its own la
 
 The deployed dashboard is currently offline because the cloud hosting service (Render) was discontinued after completion of the project.
 
-A complete walkthrough of the dashboard is available here:
+Some screenshots of the dashboard can be seen here:
 
-**Dashboard Tutorial**
+![Dashboard Overview](screenshots/Dashboard2.png)
 
-*(Insert YouTube link here)*
+![Dashboard Overview](screenshots/Dashboard3.png)
 
-The video demonstrates
+![Dashboard Overview](screenshots/Dashboard4.png)
 
-- dashboard navigation
-- interactive filtering
-- available analyses
-- visualisations
-- functionality of the application
+![Dashboard Overview](screenshots/Dashboard5.png)
+
+![Dashboard Overview](screenshots/Dashboard6.png)
+
+![Dashboard Overview](screenshots/Dashboard7.png)
+
+![Dashboard Overview](screenshots/Dashboard8.png)
+
 
 ---
 
