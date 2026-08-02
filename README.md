@@ -4,7 +4,7 @@ An interactive web application for analysing Germany's international trade flows
 
 ![Dashboard Overview](screenshots/Screenshot1.png)
 
-This project was developed during my internship/consultancy at the German-Iranian Chamber of Commerce (AHK Iran) in Tehran. The dashboard enables users to explore Germany's imports and exports through interactive visualisations across countries, product groups and time periods.
+This project was developed during my consultancy at the German-Iranian Chamber of Commerce (AHK Iran) in Tehran. The dashboard enables users to explore Germany's imports and exports through interactive visualisations across countries, product groups and time periods.
 
 ---
 
