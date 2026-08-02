@@ -57,6 +57,8 @@ Official German foreign trade statistics provided by
 
 **DESTATIS – Federal Statistical Office of Germany**
 
+![Dashboard Overview](screenshots/DESTATIS.png)
+
 The data were cleaned, transformed and prepared in Python before being integrated into the dashboard.
 
 ---
